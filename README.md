@@ -14,3 +14,7 @@ değişkeni 1’den küçük olana kadar minHeapify altprogramı çağırılır 
   * minHeapify: i değişkeni 1’den küçük olana kadar, i indeksindeki parent elemanı çocuklarıyla
 karşılaştırılır. Kendisinden küçük elemanı varsa kendisiyle yer değiştirilir. Sonrasında i indeksi
 azaltılır.
+
+- Kaynakça
+  * https://www.geeksforgeeks.org/min-heap-in-java/
+  * https://www.geeksforgeeks.org/building-heap-from-array/
